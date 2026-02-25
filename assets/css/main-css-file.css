@@ -1075,6 +1075,11 @@ font-size: 3vw;
     margin-inline: auto;
 }
 
+.bttn{
+ justify-content:center;
+ padding-inline: 0;
+}
+ 
     .bttns .bttn svg {
         width: 7vw;
     }
@@ -1225,5 +1230,6 @@ footer .social-med svg {
     translate: -100%;
   }
 }
+
 
 /* end of animation for skills section   */
